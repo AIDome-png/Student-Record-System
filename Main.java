@@ -1,3 +1,6 @@
+import java.util.Scanner;
+import java.util.ArrayList;
+
 public class Main {
 	static Scanner s = new Scanner(System.in);
 	static ArrayList<Student> studentData = new ArrayList<>();
